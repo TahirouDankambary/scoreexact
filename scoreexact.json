@@ -1,42 +1,42 @@
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_Morecambe_FC_2010.svg/1280px-Logo_Morecambe_FC_2010.svg.png",
-    "name1": "Morecambe",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Hartlepool_United_FC_crest.svg/1280px-Hartlepool_United_FC_crest.svg.png",
-    "name2": "Hartlepool United",
-    "champ": "Angleterre. National League",
-    "heure": "19H45",
-    "date": "25/03/2026",
-    "pro": "Total: (+1.5)"
-  },  
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/langfr-250px-Flag_of_Cyprus.svg.png",
+    "name1": "Chypre",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/1280px-Flag_of_Belarus.svg.png",
+    "name2": "Bélarus",
+    "champ": "Matchs amicaux. Equipes nationales",
+    "heure": "17H00",
+    "date": "26/03/2026",
+    "pro": "Score exact: 2:1"
+  },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/79/Southend_United.svg/1280px-Southend_United.svg.png",
-    "name1": "Southend United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Woking_FC_logo.svg/250px-Woking_FC_logo.svg.png",
-    "name2": "Woking",
-    "champ": "Angleterre. National League",
-    "heure": "19H45",
-    "date": "25/03/2026",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
+    "name1": "Brésil",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png",
+    "name2": "France",
+    "champ": "Matchs amicaux. Equipes nationales",
+    "heure": "20H00",
+    "date": "26/03/2026",
+    "pro": "Score exact: 1:1"
+  },
+   {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/3840px-Flag_of_Gibraltar.svg.png",
+    "name1": "Gibraltar",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/3840px-Flag_of_Latvia.svg.png",
+    "name2": "Lettonie",
+    "champ": "Ligue des Nations UEFA",
+    "heure": "17H00",
+    "date": "26/03/2026",
+    "pro": "Score exact: 1:2"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/79/Southend_United.svg/1280px-Southend_United.svg.png",
-    "name1": "Southend United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Woking_FC_logo.svg/250px-Woking_FC_logo.svg.png",
-    "name2": "Woking",
-    "champ": "Angleterre. National League",
-    "heure": "19H45",
-    "date": "25/03/2026",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/79/Southend_United.svg/1280px-Southend_United.svg.png",
-    "name1": "Southend United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Woking_FC_logo.svg/250px-Woking_FC_logo.svg.png",
-    "name2": "Woking",
-    "champ": "Angleterre. National League",
-    "heure": "19H45",
-    "date": "25/03/2026",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/250px-Flag_of_Malta.svg.png",
+    "name1": "Malte",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/1280px-Flag_of_Luxembourg.svg.png",
+    "name2": "Luxembourg",
+    "champ": "Ligue des Nations UEFA",
+    "heure": "17H00",
+    "date": "26/03/2026",
+    "pro": "Score exact: 0:1"
   }
 ]
