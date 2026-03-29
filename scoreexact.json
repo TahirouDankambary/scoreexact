@@ -1,42 +1,32 @@
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/1280px-Flag_of_Burkina_Faso.svg.png",
-    "name1": "Burkina Faso",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/3840px-Flag_of_Guinea-Bissau.svg.png",
-    "name2": "Guinea-Bissau",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_British_Virgin_Islands.svg/langfr-250px-Flag_of_the_British_Virgin_Islands.svg.png",
+    "name1": "Îles Vierges",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Anguilla.svg/3840px-Flag_of_Anguilla.svg.png",
+    "name2": "Anguilla",
     "champ": "Matchs amicaux. Equipes nationales",
-    "heure": "18H00",
-    "date": "28/03/2026",
-    "pro": "Score exact: 2:1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1280px-Flag_of_Canada_%28Pantone%29.svg.png",
-    "name1": "Canada",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/3840px-Flag_of_Iceland.svg.png",
-    "name2": "Islande",
-    "champ": "Matchs amicaux. Equipes nationales",
-    "heure": "17H00",
-    "date": "28/03/2026",
+    "heure": "21H30",
+    "date": "29/03/2026",
     "pro": "Score exact: 1:1"
   },
-   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWm1Kh1E1jUs1e5oh8ZiU7bDUJmViv3pfxA&s",
-    "name1": "Haiti",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
-    "name2": "Tunisie",
-    "champ": "Matchs amicaux. Equipes nationales",
-    "heure": "00H00",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/1280px-Flag_of_Cape_Verde.svg.png",
+    "name1": "Cape Verde",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/1280px-Flag_of_Finland.svg.png",
+    "name2": "Finlande",
+    "champ": "FIFA. Series",
+    "heure": "03H00",
     "date": "29/03/2026",
-    "pro": "Score exact: 2:2"
+    "pro": "Score exact: 3:1"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/3840px-Flag_of_Mexico.svg.png",
-    "name1": "Mexique",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1280px-Flag_of_Portugal.svg.png",
-    "name2": "Portugal",
-    "champ": "Matchs amicaux. Equipes nationales",
-    "heure": "01H00",
+   {
+    "photo1": "https://t3.ftcdn.net/jpg/15/53/18/86/360_F_1553188696_c0c37rdXCeX6po5gPwNF0KpJch2YhueS.jpg",
+    "name1": "Nouvelle-Zélande",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/960px-Flag_of_Chile.svg.png",
+    "name2": "Chili",
+    "champ": "FIFA. Series",
+    "heure": "06H00",
     "date": "29/03/2026",
-    "pro": "Score exact: 1:2"
+    "pro": "Score exact: 0:2"
   }
 ]
