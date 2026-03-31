@@ -1,32 +1,32 @@
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1280px-Flag_of_the_People%27s_Republic_of_China.svg.png",
-    "name1": "Chine",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/1280px-Flag_of_Cameroon.svg.png",
-    "name2": "Cameroun",
-    "champ": "FIFA. Series",
-    "heure": "06H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/langfr-250px-Flag_of_Benin.svg.png",
+    "name1": "Benin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/3840px-Flag_of_Guinea.svg.png",
+    "name2": "Guinée",
+    "champ": "Matchs amicaux. Équipes nationales",
+    "heure": "18H00",
     "date": "31/03/2026",
-    "pro": "Score exact: 1:2"
+    "pro": "Score exact: 1:1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/1280px-Flag_of_Australia.svg.png",
-    "name1": "Australie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/1280px-Flag_of_Cura%C3%A7ao.svg.png",
-    "name2": "Curacao",
-    "champ": "FIFA. Series",
-    "heure": "09H10",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/langfr-250px-Flag_of_Austria.svg.png",
+    "name1": "Autriche",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/langfr-250px-Flag_of_South_Korea.svg.png",
+    "name2": "Corée du Sud",
+    "champ": "Matchs amicaux. Équipes nationales",
+    "heure": "18H45",
     "date": "31/03/2026",
     "pro": "Score exact: 2:0"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/1280px-Flag_of_Kazakhstan.svg.png",
-    "name1": "Kazakhstan",
-    "photo2": "https://img.freepik.com/photos-premium/drapeau-national-tissu-ile-comores-fond-textile-symbole-du-monde-international-pays-africain_113767-2633.jpg",
-    "name2": "Archipel des Comores",
-    "champ": "FIFA. Series",
-    "heure": "12H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/3840px-Flag_of_England.svg.png",
+    "name1": "Angleterre",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/3840px-Flag_of_Japan.svg.png",
+    "name2": "Japon",
+    "champ": "Matchs amicaux. Équipes nationales",
+    "heure": "18H45",
     "date": "31/03/2026",
-    "pro": "Score exact: 2:0"
+    "pro": "Score exact: 2:1"
   }
 ]
