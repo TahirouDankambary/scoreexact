@@ -1,22 +1,12 @@
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5LfZdGw66sMs9HM3u_I5IDp6r_aE0xvC_Cw&s",
-    "name1": "Marseille",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_OGC_Nice_2013.svg/1920px-Logo_OGC_Nice_2013.svg.png",
-    "name2": "Nice",
-    "champ": "France. Ligue 1",
-    "heure": "18H45",
-    "date": "26/04/2026",
-    "pro": "Score exact: 2:1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp19TLTmOwL26HmKWuYiFhzWErmdgGsnLKAA&s",
-    "name1": "Real Oviedo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/Logo_Elche_CF_2021.svg/1280px-Logo_Elche_CF_2021.svg.png",
-    "name2": "Elche",
-    "champ": "Espagne. LaLiga",
-    "heure": "14H15",
-    "date": "26/04/2026",
-    "pro": "Score exact: 1:1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/1280px-Logo_Paris_Saint-Germain_2024.svg.png",
+    "name1": "PSG",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4hQMF6QgRpZDpKJAbyLuBgp_V8YawUc3gRw&s",
+    "name2": "Bayern",
+    "champ": "UEFA",
+    "heure": "19H00",
+    "date": "28/04/2026",
+    "pro": "Score exact: 2:2"
   }
 ]
