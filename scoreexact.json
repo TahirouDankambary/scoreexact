@@ -1,12 +1,12 @@
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/1280px-Logo_Paris_Saint-Germain_2024.svg.png",
-    "name1": "PSG",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4hQMF6QgRpZDpKJAbyLuBgp_V8YawUc3gRw&s",
-    "name2": "Bayern",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Atletico_Madrid_Logo_2024.svg/960px-Atletico_Madrid_Logo_2024.svg.png",
+    "name1": "Atl.Madrid",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQyozjYpIMm1E2U5DeFb9s7STOWvkrh64N2g&s",
+    "name2": "Arsenal",
     "champ": "UEFA",
     "heure": "19H00",
     "date": "28/04/2026",
-    "pro": "Score exact: 2:2"
+    "pro": "Score exact: 1:2"
   }
 ]
