@@ -1,12 +1,12 @@
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Arsenal_FC_2002.svg/1280px-Logo_Arsenal_FC_2002.svg.png",
-    "name1": "Arsenal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Logo_ATM_2024.svg/250px-Logo_ATM_2024.svg.png",
-    "name2": "Atl.Madrid",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/langfr-250px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name1": "Bayern Munich",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW2V3sEM1r7T6egwsk0ncjLntBkePl9-PbBQ&s",
+    "name2": "PSG",
     "champ": "UEFA",
     "heure": "19H00",
     "date": "04/05/2026",
-    "pro": "Score exact: 2:1"
+    "pro": "Score exact: 2:2"
   }
 ]
