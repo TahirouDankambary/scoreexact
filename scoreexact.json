@@ -1,22 +1,22 @@
  [
   {
-    "photo1": "https://static.wikia.nocookie.net/fightclubchampfanom/images/7/7c/Sparta_Prague.png/revision/latest/scale-to-width-down/500?cb=20220620154545",
-    "name1": "Sparta Prague",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB_EMdQg5LsdYajDBtC_ixk0uGDMAj8RWbmQ&s",
-    "name2": "Viktoria Plzen",
-    "champ": "Tchéquie. Première Ligue",
-    "heure": "18H00",
-    "date": "12/05/2026",
-    "pro": "Score exact: 1:1"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIoXadnyFSG-XqTS8pvACdshX6f3semP2EeQ&s",
+    "name1": "CF Montreal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Chicago_Fire_logo%2C_2021.svg/1280px-Chicago_Fire_logo%2C_2021.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Fire de Chicago",
+    "champ": "États-Unis. MLS",
+    "heure": "20H30",
+    "date": "16/05/2026",
+    "pro": "Score exact: 1:2"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7a/Logo_Grasshopper_Club_Z%C3%BCrich_2024.svg/960px-Logo_Grasshopper_Club_Z%C3%BCrich_2024.svg.png",
-    "name1": "Grasshopper Club",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7w8BpYLkr-wdCJw_G1yNk9Pxrioswpb1eGA&s",
-    "name2": "Winterthour",
-    "champ": "Suisse. SuperLigue",
-    "heure": "18H30",
-    "date": "12/05/2026",
-    "pro": "Score exact: 2:1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Logo_Clube_Atl%C3%A9tico_Mineiro.svg/960px-Logo_Clube_Atl%C3%A9tico_Mineiro.svg.png",
+    "name1": "Clube Atlético Mineiro",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Mirassol_FC_logo.png",
+    "name2": "Mirassol",
+    "champ": "Brésil. Série A",
+    "heure": "21H30",
+    "date": "16/05/2026",
+    "pro": "Score exact: 2:2"
   }
 ]
