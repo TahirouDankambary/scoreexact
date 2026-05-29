@@ -1,32 +1,22 @@
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/FC_Volendam_logo.png/250px-FC_Volendam_logo.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-    "name1": "Volendam",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f4/Logo_Willem_II_Tilburg_-_2022.svg/960px-Logo_Willem_II_Tilburg_-_2022.svg.png",
-    "name2": "Willem ll",
-    "champ": "Pays-Bas. Qualification",
-    "heure": "14H30",
-    "date": "23/05/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv7UW9oPAZxvOrHdnSjhpLb2XLvko4T0sQsA&s",
+    "name1": "Fredrikstad",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Start_Kristiansand_Logo.svg/1280px-Start_Kristiansand_Logo.svg.png",
+    "name2": "IK Start",
+    "champ": "Norvège. Eliteserien",
+    "heure": "17H00",
+    "date": "29/05/2026",
     "pro": "Score exact: 2:1"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Logo_Standard_de_Li%C3%A8ge_2019.svg/langfr-250px-Logo_Standard_de_Li%C3%A8ge_2019.svg.png",
-    "name1": "Standard Liege",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Sporting_de_Charleroi_%28logo%29.svg/960px-Sporting_de_Charleroi_%28logo%29.svg.png",
-    "name2": "R.Charleroi",
-    "champ": "Belgique. Jupiler Pro League",
-    "heure": "18H45",
-    "date": "23/05/2026",
-    "pro": "Score exact: 2:2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_OH_Leuven_2024.svg/1280px-Logo_OH_Leuven_2024.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Oud Heverlee Leuven",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvDZyX2W8kn2QIsQGIzi8heWq-JlhqMPoDdA&s",
-    "name2": "Genk",
-    "champ": "Belgique. Jupiler Pro League",
-    "heure": "18H45",
-    "date": "23/05/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Rosenborg_Trondheim_logo.svg/1280px-Rosenborg_Trondheim_logo.svg.png",
+    "name1": "Rosenborg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_FK_Bod%C3%B8_Glimt.svg/1280px-Logo_FK_Bod%C3%B8_Glimt.svg.png",
+    "name2": "Bodo-Glimt",
+    "champ": "Norvège. Eliteserien",
+    "heure": "17H00",
+    "date": "29/05/2026",
     "pro": "Score exact: 1:2"
   }
 ]
