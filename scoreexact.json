@@ -1,22 +1,12 @@
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv7UW9oPAZxvOrHdnSjhpLb2XLvko4T0sQsA&s",
-    "name1": "Fredrikstad",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Start_Kristiansand_Logo.svg/1280px-Start_Kristiansand_Logo.svg.png",
-    "name2": "IK Start",
-    "champ": "Norvège. Eliteserien",
-    "heure": "17H00",
-    "date": "29/05/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/langfr-250px-Logo_Paris_Saint-Germain_2024.svg.png",
+    "name1": "PSG",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Arsenal_FC_2002.svg/langfr-250px-Logo_Arsenal_FC_2002.svg.png",
+    "name2": "Arsenal",
+    "champ": "UEFA",
+    "heure": "16H00",
+    "date": "30/05/2026",
     "pro": "Score exact: 2:1"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Rosenborg_Trondheim_logo.svg/1280px-Rosenborg_Trondheim_logo.svg.png",
-    "name1": "Rosenborg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_FK_Bod%C3%B8_Glimt.svg/1280px-Logo_FK_Bod%C3%B8_Glimt.svg.png",
-    "name2": "Bodo-Glimt",
-    "champ": "Norvège. Eliteserien",
-    "heure": "17H00",
-    "date": "29/05/2026",
-    "pro": "Score exact: 1:2"
   }
 ]
