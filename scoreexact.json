@@ -1,22 +1,22 @@
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/langfr-250px-Flag_of_Mexico.svg.png",
-    "name1": "Mexique",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/langfr-250px-Flag_of_South_Africa.svg.png",
-    "name2": "Afrique du Sud",
-    "champ": "Coupe du Monde 2026",
-    "heure": "19H00",
-    "date": "11/06/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d4/Gazelle_FA_Garoua_Logo.png/500px-Gazelle_FA_Garoua_Logo.png",
+    "name1": "Gazelle FA",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Canon_Yaound%C3%A9_logo.png/250px-Canon_Yaound%C3%A9_logo.png",
+    "name2": "Canon",
+    "champ": "Cameroun. Elite One",
+    "heure": "15H00",
+    "date": "17/06/2026",
     "pro": "Score exact: 2:1"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1280px-Flag_of_South_Korea.svg.png",
-    "name1": "Corée du Sud",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/330px-Flag_of_the_Czech_Republic.svg.png",
-    "name2": "République Tchèque",
-    "champ": "Coupe du Monde 2026",
-    "heure": "02H00",
-    "date": "12/06/2026",
+    "photo1": "https://images.seeklogo.com/logo-png/6/1/gremio-atletico-farroupilha-de-pelotas-rs-logo-png_seeklogo-63282.png",
+    "name1": "Grêmio Atlético",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/GE_Bage.svg/1920px-GE_Bage.svg.png",
+    "name2": "GE Bagé",
+    "champ": "Brésil. Coupe Gautcho",
+    "heure": "18H00",
+    "date": "17/06/2026",
     "pro": "Score exact: 1:1"
   }
 ]
