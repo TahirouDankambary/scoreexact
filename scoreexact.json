@@ -1,22 +1,22 @@
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d4/Gazelle_FA_Garoua_Logo.png/500px-Gazelle_FA_Garoua_Logo.png",
-    "name1": "Gazelle FA",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Canon_Yaound%C3%A9_logo.png/250px-Canon_Yaound%C3%A9_logo.png",
-    "name2": "Canon",
-    "champ": "Cameroun. Elite One",
-    "heure": "15H00",
-    "date": "17/06/2026",
-    "pro": "Score exact: 2:1"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTew3yR895wcNP_IqQrzZR75WjU6EG7pazqlCZYTgyt-g&s",
+    "name1": "Grazer AK",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_ETO_FC_Gy%C5%91r_2025.svg/1280px-Logo_ETO_FC_Gy%C5%91r_2025.svg.png",
+    "name2": "Gyor",
+    "champ": "Match amicaux des clubs",
+    "heure": "15H30",
+    "date": "19/06/2026",
+    "pro": "Score exact: 2:2"
   },
    {
-    "photo1": "https://images.seeklogo.com/logo-png/6/1/gremio-atletico-farroupilha-de-pelotas-rs-logo-png_seeklogo-63282.png",
-    "name1": "Grêmio Atlético",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/GE_Bage.svg/1920px-GE_Bage.svg.png",
-    "name2": "GE Bagé",
-    "champ": "Brésil. Coupe Gautcho",
-    "heure": "18H00",
-    "date": "17/06/2026",
-    "pro": "Score exact: 1:1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/73/NK_Race.png",
+    "name1": "NK Race",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7rk2YjZqvCsR6PctHhgeMVhuy3LWEb2lHlgah0HFSWA&s",
+    "name2": "NK Aluminij",
+    "champ": "Match amicaux des clubs",
+    "heure": "16H00",
+    "date": "19/06/2026",
+    "pro": "Score exact: 1:2"
   }
 ]
