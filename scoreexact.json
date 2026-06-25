@@ -1,22 +1,12 @@
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmcEehgCP2mPUnoRWLXVA0kvrRy0Y66RbFdYX1yJxvJA&s=10",
-    "name1": "AIK Fotboll",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUd5PJKHRRvkS1t8Va93x8VMHyXELttOP2A0AO3pJcuw&s=10",
-    "name2": "Kalmar",
-    "champ": "Match amicaux des clubs",
-    "heure": "13H00",
-    "date": "22/06/2026",
-    "pro": "Score exact: 2:1"
-  },
-   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBx40I4Zjo_RaWFidiMAMLVSzdmZ3JVR_t5wPEc-KJcA&s=10",
-    "name1": "Torpedo Moscou",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKvcSMGVf2S49SZxIOfffVUKYv9u08p3wcxWctN78lHA&s",
-    "name2": "Volga Ulyanovsk",
-    "champ": "Match amicaux des clubs",
-    "heure": "14H00",
-    "date": "22/06/2026",
-    "pro": "Score exact: 2:1"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7IfMi4L8nBl0sjVliLLWX8UrYt4IXs6QtJNpUIFSwzA&s",
+    "name1": "Pitea (Femmes)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ab/Logo_Hammarby_IF.svg/1280px-Logo_Hammarby_IF.svg.png",
+    "name2": "Hammarby (Femmes)",
+    "champ": "Suède. Allsvenskan",
+    "heure": "16H00",
+    "date": "25/06/2026",
+    "pro": "Score exact: 1:3"
   }
 ]
