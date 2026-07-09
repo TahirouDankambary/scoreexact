@@ -1,22 +1,22 @@
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/10/Logo_FC_UNA_Strassen.svg/1280px-Logo_FC_UNA_Strassen.svg.png",
-    "name1": "UNA Strassen",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5AlRV84Mtn_i2hJLHowYEHHWC1N5Rg58AgqOFUYC_-g&s=10",
-    "name2": "SP La Fiorita",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFGU-HxJcMsdx22l3LAcSKeQdMSKvEPA8qD1F-742TpA&s=10",
+    "name1": "Dila Gori",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Virtus_AC_San_Marino_logo.svg/1280px-Virtus_AC_San_Marino_logo.svg.png",
+    "name2": "Virtus",
     "champ": "Ligue conférence de l'UEFA",
-    "heure": "17H15",
-    "date": "07/07/2026",
-    "pro": "Score exact: 2:1"
+    "heure": "16H00",
+    "date": "09/07/2026",
+    "pro": "Score exact: 3:1"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Elbasani_AF_Logo.svg/1280px-Elbasani_AF_Logo.svg.png",
-    "name1": "AF Elbasani",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/d3/BATE_Logo_2020.png",
-    "name2": "BATE Borisov",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/df/FK_Liepaja_%28logo%29.svg/960px-FK_Liepaja_%28logo%29.svg.png",
+    "name1": "Liepaja",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FK_Decic_%28logo%29.svg/960px-FK_Decic_%28logo%29.svg.png",
+    "name2": "Decic",
     "champ": "Ligue conférence de l'UEFA",
-    "heure": "18H00",
-    "date": "07/07/2026",
-    "pro": "Score exact: 3:2"
+    "heure": "16H00",
+    "date": "09/07/2026",
+    "pro": "Score exact: 2:1"
   }
 ]
