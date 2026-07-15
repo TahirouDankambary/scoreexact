@@ -1,22 +1,22 @@
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/Logo_IF_Brommapojkarna_2020.svg/langfr-250px-Logo_IF_Brommapojkarna_2020.svg.png",
-    "name1": "Brommapojkarna",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxQKtaHzVUyQPqqwRYw_emhTbCP5z5VzNYAft_fQipmA&s=10",
-    "name2": "Sirius",
-    "champ": "Suède. Allsvenskan",
-    "heure": "14H30",
-    "date": "12/07/2026",
-    "pro": "Score exact: 1:2"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBaBZfw1O5A37h_gO6IUoCd0413ZWfZ3n96fx1I2L1Sw&s=10",
+    "name1": "Sturm Graz",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU4reF39rKwCzJ5XcT9-2Cl8ynuMoD1jj-7zSRCAkPMQ&s=10",
+    "name2": "Pogon Szczecin",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "15/07/2026",
+    "pro": "Score exact: 3:1"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/17/Logo_GAIS_2023.svg/500px-Logo_GAIS_2023.svg.png",
-    "name1": "GAIS",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/IF_Elfsborg_%28logo%29.svg/langfr-250px-IF_Elfsborg_%28logo%29.svg.png",
-    "name2": "Elfsborg",
-    "champ": "Suède. Allsvenskan",
-    "heure": "14H30",
-    "date": "12/07/2026",
-    "pro": "Score exact: 2:1"
+    "photo1": "httoad.wikimedia.org/wikipedia/fr/thumb/1/17/Logo_GAIS_2023.svg/500px-Logo_GAIS_2023.svg.png",
+    "name1": "Energie",
+    "photo2": "https://static.wikia.nocookie.net/fifa/images/d/d9/FK_Mlada_Boleslav.png/revision/latest?cb=20170112184530",
+    "name2": "Mlada Boleslav",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "15/07/2026",
+    "pro": "Score exact: 2:2"
   }
 ]
