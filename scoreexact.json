@@ -1,22 +1,12 @@
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBaBZfw1O5A37h_gO6IUoCd0413ZWfZ3n96fx1I2L1Sw&s=10",
-    "name1": "Sturm Graz",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU4reF39rKwCzJ5XcT9-2Cl8ynuMoD1jj-7zSRCAkPMQ&s=10",
-    "name2": "Pogon Szczecin",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "15/07/2026",
-    "pro": "Score exact: 3:1"
-  },
-    {
-    "photo1": "httoad.wikimedia.org/wikipedia/fr/thumb/1/17/Logo_GAIS_2023.svg/500px-Logo_GAIS_2023.svg.png",
-    "name1": "Energie",
-    "photo2": "https://static.wikia.nocookie.net/fifa/images/d/d9/FK_Mlada_Boleslav.png/revision/latest?cb=20170112184530",
-    "name2": "Mlada Boleslav",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "15/07/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/%C3%96stersunds_FK_%28logo%29.svg/langfr-250px-%C3%96stersunds_FK_%28logo%29.svg.png",
+    "name1": "Ostersunds",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFHpjKdJoJZP1lXQzhWFgLNpiK8u1S75LlY5RbOk3c2g&s=10",
+    "name2": "Landskrona Bois",
+    "champ": "Suède. Superettan",
+    "heure": "13H00",
+    "date": "18/07/2026",
     "pro": "Score exact: 2:2"
   }
 ]
