@@ -1,22 +1,22 @@
  [
   {
-    "photo1": "https://cdn.prod.website-files.com/68f550992570ca0322737dc2/6a2f3e4f4695e50bce46497c_serbia_zeleznicar-pancevo_1500x1500.football-logos.cc.webp",
-    "name1": "Zeleznicar Pancevo",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkUoWdKjeSo-sXLDJFIpexaJk8BQZZv5q5rfdxY-seFA&s=10",
-    "name2": "Braga",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "19H00",
-    "date": "22/07/2026",
-    "pro": "Score exact: 1:2"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN1vV-LDAeFrK5qB-SVyxZwQXt93djUik3b-maxYRyrw&s",
+    "name1": "Lokomotiv Moscou",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Akhmat_Grozny_Logo.svg/1920px-Akhmat_Grozny_Logo.svg.png",
+    "name2": "Akhmat",
+    "champ": "Russie. Première Ligue",
+    "heure": "14H00",
+    "date": "26/07/2026",
+    "pro": "Score exact: 2:1"
   },
    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXrBbR6TgAzo67D1VLZ9WUXIWorV3kbD0sOZHuNWc-nQ&s=10",
-    "name1": "Bodo-Glimt",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWz3DgYJWfFgJnCpJ-9NLcIZQ6GEIARBdSYkhGVgK57Q&s=10",
-    "name2": "HamKam",
-    "champ": "Norvège. Eliteserien",
-    "heure": "17H00",
-    "date": "22/07/2026",
-    "pro": "Score exact: 3:0"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_S%C3%B8nderjyskE.svg/1280px-Logo_S%C3%B8nderjyskE.svg.png",
+    "name1": "Sonderjyske",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_FC_Midtjylland_2025.svg/960px-Logo_FC_Midtjylland_2025.svg.png",
+    "name2": "Midtjylland",
+    "champ": "Danemark. Superliga",
+    "heure": "12H00",
+    "date": "26/07/2026",
+    "pro": "Score exact: 1:3"
   }
 ]
