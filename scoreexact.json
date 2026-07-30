@@ -1,22 +1,22 @@
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN1vV-LDAeFrK5qB-SVyxZwQXt93djUik3b-maxYRyrw&s",
-    "name1": "Lokomotiv Moscou",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Akhmat_Grozny_Logo.svg/1920px-Akhmat_Grozny_Logo.svg.png",
-    "name2": "Akhmat",
-    "champ": "Russie. Première Ligue",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6F_HscYk11Ms2nmwe6s2RXa0PC78tm8EP8Mc3xIbasw&s",
+    "name1": "Tobol Kostanay",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgB4QMkvPq1qU7V0Gh-RVLUwTCmzYuznvBWcfFYUAkwQ&s",
+    "name2": "Panevezys",
+    "champ": "Ligue Conférence de l'UEFA",
     "heure": "14H00",
-    "date": "26/07/2026",
+    "date": "30/07/2026",
     "pro": "Score exact: 2:1"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_S%C3%B8nderjyskE.svg/1280px-Logo_S%C3%B8nderjyskE.svg.png",
-    "name1": "Sonderjyske",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_FC_Midtjylland_2025.svg/960px-Logo_FC_Midtjylland_2025.svg.png",
-    "name2": "Midtjylland",
-    "champ": "Danemark. Superliga",
-    "heure": "12H00",
-    "date": "26/07/2026",
-    "pro": "Score exact: 1:3"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpHKsSHenUoo2_vTG0a0DwYjDMjvRGVfM3XlsVNR04Yg&s=10",
+    "name1": "Auda",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fcsb-logo.svg/500px-Fcsb-logo.svg.png",
+    "name2": "FCSB",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "16H00",
+    "date": "20/07/2026",
+    "pro": "Score exact: 1:2"
   }
 ]
