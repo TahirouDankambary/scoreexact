@@ -1,22 +1,22 @@
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6F_HscYk11Ms2nmwe6s2RXa0PC78tm8EP8Mc3xIbasw&s",
-    "name1": "Tobol Kostanay",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgB4QMkvPq1qU7V0Gh-RVLUwTCmzYuznvBWcfFYUAkwQ&s",
-    "name2": "Panevezys",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "14H00",
-    "date": "30/07/2026",
-    "pro": "Score exact: 2:1"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHfGyXP5XK0H2mjsMtXGxkzDzKpZ_zfiG_wIRhfPgMVGdFcqgQOjpoQiRY&s=10",
+    "name1": "FK Junior Strakonice",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8K-76yGIpTbYXF2A0I37ngLa5wQXmLGVtovea_ugsncIUva6Ky7uFDyU&s=10",
+    "name2": "Milevsko",
+    "champ": "Coupe de République Tchèque",
+    "heure": "15H00",
+    "date": "01/08/2026",
+    "pro": "Score exact: 3:2"
   },
    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpHKsSHenUoo2_vTG0a0DwYjDMjvRGVfM3XlsVNR04Yg&s=10",
-    "name1": "Auda",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fcsb-logo.svg/500px-Fcsb-logo.svg.png",
-    "name2": "FCSB",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "16H00",
-    "date": "20/07/2026",
-    "pro": "Score exact: 1:2"
+    "photo1": "https://images.seeklogo.com/logo-png/47/2/sk-sparta-kolin-logo-png_seeklogo-470390.png",
+    "name1": "Kolin",
+    "photo2": "https://fkhorniredice.cz/wp-content/uploads/2025/11/header.webp",
+    "name2": "Horni Redice",
+    "champ": "Coupe de République Tchèque",
+    "heure": "15H00",
+    "date": "01/08/2026",
+    "pro": "Score exact: 2:3"
   }
 ]
