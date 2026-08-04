@@ -1,22 +1,22 @@
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHfGyXP5XK0H2mjsMtXGxkzDzKpZ_zfiG_wIRhfPgMVGdFcqgQOjpoQiRY&s=10",
-    "name1": "FK Junior Strakonice",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8K-76yGIpTbYXF2A0I37ngLa5wQXmLGVtovea_ugsncIUva6Ky7uFDyU&s=10",
-    "name2": "Milevsko",
-    "champ": "Coupe de République Tchèque",
-    "heure": "15H00",
-    "date": "01/08/2026",
-    "pro": "Score exact: 3:2"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFL2XqO1W792QtIlQOt9mZEi_P8KHnQuf1H4qV-V4PAQ&s",
+    "name1": "Shamrock Rovers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Egnatia_Club_Logo.svg/1920px-Egnatia_Club_Logo.svg.png",
+    "name2": "Egnatia",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "19H00",
+    "date": "04/08/2026",
+    "pro": "Score exact: 2:1"
   },
    {
-    "photo1": "https://images.seeklogo.com/logo-png/47/2/sk-sparta-kolin-logo-png_seeklogo-470390.png",
-    "name1": "Kolin",
-    "photo2": "https://fkhorniredice.cz/wp-content/uploads/2025/11/header.webp",
-    "name2": "Horni Redice",
-    "champ": "Coupe de République Tchèque",
-    "heure": "15H00",
-    "date": "01/08/2026",
-    "pro": "Score exact: 2:3"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/9/90/AudaFK-1-.gif",
+    "name1": "Auda",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/a/a3/Dinamo_Tirana_Club_Logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Dinamo City",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "16H00",
+    "date": "04/08/2026",
+    "pro": "Score exact: 3:2"
   }
 ]
