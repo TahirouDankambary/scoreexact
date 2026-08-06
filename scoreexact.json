@@ -1,22 +1,22 @@
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFL2XqO1W792QtIlQOt9mZEi_P8KHnQuf1H4qV-V4PAQ&s",
-    "name1": "Shamrock Rovers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Egnatia_Club_Logo.svg/1920px-Egnatia_Club_Logo.svg.png",
-    "name2": "Egnatia",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "19H00",
-    "date": "04/08/2026",
-    "pro": "Score exact: 2:1"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0cXg1ThZvqD4ajdVBjIW4OEAF_chk3NjncGUJJIZuEg&s=10",
+    "name1": "Goteborg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/01/Logo_KAA_Gent_2024.svg/1280px-Logo_KAA_Gent_2024.svg.png",
+    "name2": "KAA La Gantoise",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "17H00",
+    "date": "06/08/2026",
+    "pro": "Score exact: 1:1"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/9/90/AudaFK-1-.gif",
-    "name1": "Auda",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/a/a3/Dinamo_Tirana_Club_Logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Dinamo City",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/Debreceni_VSC_%28logo%29.svg/1280px-Debreceni_VSC_%28logo%29.svg.png",
+    "name1": "Debreceni VSC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_FC_Copenhagen_%281992-2024%29.svg/3840px-Logo_FC_Copenhagen_%281992-2024%29.svg.png",
+    "name2": "Copenhague",
     "champ": "Ligue Conférence de l'UEFA",
-    "heure": "16H00",
-    "date": "04/08/2026",
-    "pro": "Score exact: 3:2"
+    "heure": "17H00",
+    "date": "06/08/2026",
+    "pro": "Score exact: 1:3"
   }
 ]
