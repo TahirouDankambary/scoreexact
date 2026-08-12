@@ -1,22 +1,22 @@
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0cXg1ThZvqD4ajdVBjIW4OEAF_chk3NjncGUJJIZuEg&s=10",
-    "name1": "Goteborg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/01/Logo_KAA_Gent_2024.svg/1280px-Logo_KAA_Gent_2024.svg.png",
-    "name2": "KAA La Gantoise",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "17H00",
-    "date": "06/08/2026",
-    "pro": "Score exact: 1:1"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpfbbV6Vj7b9xIChWWOOJBSZ7oRXUrxPf_1E7pXr_PMw&s=10",
+    "name1": "Tosno",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/a/ad/Cheksna_Tcherepovets_Logo.png",
+    "name2": "Tcherepovets",
+    "champ": "Coupe de Russie",
+    "heure": "16H00",
+    "date": "12/08/2026",
+    "pro": "Score exact: 3:1"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/Debreceni_VSC_%28logo%29.svg/1280px-Debreceni_VSC_%28logo%29.svg.png",
-    "name1": "Debreceni VSC",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_FC_Copenhagen_%281992-2024%29.svg/3840px-Logo_FC_Copenhagen_%281992-2024%29.svg.png",
-    "name2": "Copenhague",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "17H00",
-    "date": "06/08/2026",
-    "pro": "Score exact: 1:3"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWbWwvPMIa45ivjr1eLaDPIGbC_Td-eJrg8NWfprLJiA&s=10",
+    "name1": "Khimik Dzerzhinsk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/7/7f/Nosta.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Nosta Novotroitsk",
+    "champ": "Coupe de Russie",
+    "heure": "16H00",
+    "date": "12/08/2026",
+    "pro": "Score exact: 3:0"
   }
 ]
