@@ -1,22 +1,12 @@
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKZMrh7Wtw4SSZNZpd2sHUfn5EtwqaL8FKiwYXGLRMeQ&s=10",
-    "name1": "Elfsborg",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaO6ZFMi8HU9y8F8bS_GAYkxo-Xby849LG-OCCQ5rfyg&s",
-    "name2": "Vasteras SK",
-    "champ": "Suède. Allsvenskan",
-    "heure": "17H00",
-    "date": "14/08/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1xJwbiCOYk3AzRoF6gSQyUI4Gub6Ax6QYJsMfzBW5jw&s=10",
+    "name1": "Cardiff City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/c9/Wrexham_FC.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Wrexham",
+    "champ": "Angleterre. Championship",
+    "heure": "19H00",
+    "date": "17/08/2026",
     "pro": "Score exact: 2:1"
-  },
-   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSNGiY4OqauGHhbc_6NiB7ppVYbIPWmJ3GaOfZUJbkkg&s=10",
-    "name1": "Roda JC Kerkrade",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmFLTIt9HvuEyocDupiwOUsp0a6aN5cFoxO00EfGovEw&s=10",
-    "name2": "Helmond Sport",
-    "champ": "Pays-Bas. Eerste Divisie",
-    "heure": "18H00",
-    "date": "14/08/2026",
-    "pro": "Score exact: 2:0"
   }
 ]
