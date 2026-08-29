@@ -1,22 +1,22 @@
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYkO3cwUsE_Tqfsqq00wpldrhnuk42l7jmEnW2_hUdfQ&s=10",
-    "name1": "Volgar Astrakhan",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEqGdzVO0uBsV475GEtuBw5RMc9zipAcNpH1NOO4vvVQ&s",
-    "name2": "Spartak Nalchik",
-    "champ": "Coupe de Russie",
-    "heure": "16H00",
-    "date": "26/08/2026",
-    "pro": "Score exact: 2:1"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdReTFeLE2XnOahymlbCj69rnwbkLxSBA2pC4zV50Zkw&s=10",
+    "name1": "PEC Zwolle",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkPH_4Xq8h3CmdJcSCSmbDCocxFjL1bmXv3q4EsqDE6pMkkeSafXP9hRw&s=10",
+    "name2": "NEC",
+    "champ": "Pays-Bas. Eredivisie",
+    "heure": "19H00",
+    "date": "29/08/2026",
+    "pro": "Score exact: 1:2"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDDywmkW0XAaHl4CJTCIRiekIQ2Ku7tSo2xOFCSopAcu7AUdkeUlAj7Uvc&s=10",
-    "name1": "Marienlyst",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/VSK_Aarhus_logo.svg/1280px-VSK_Aarhus_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "VSK Aarhus",
-    "champ": "Coupe de Danemark",
-    "heure": "15H30",
-    "date": "26/08/2026",
-    "pro": "Score exact: 2:3"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/A.C._Viseu.svg/langfr-250px-A.C._Viseu.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "name1": "Academico de Viseu",
+    "photo2": "https://upload.wikimedia.org/wikipedia/sco/thumb/f/f1/FC_Porto.svg/500px-FC_Porto.svg.png?utm_source=sco.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Porto",
+    "champ": "Portugal. Primeira Liga",
+    "heure": "17H00",
+    "date": "29/08/2026",
+    "pro": "Score exact: 1:3"
   }
 ]
