@@ -1,22 +1,22 @@
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdReTFeLE2XnOahymlbCj69rnwbkLxSBA2pC4zV50Zkw&s=10",
-    "name1": "PEC Zwolle",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkPH_4Xq8h3CmdJcSCSmbDCocxFjL1bmXv3q4EsqDE6pMkkeSafXP9hRw&s=10",
-    "name2": "NEC",
-    "champ": "Pays-Bas. Eredivisie",
-    "heure": "19H00",
-    "date": "29/08/2026",
-    "pro": "Score exact: 1:2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Parma_F.C._logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Parma",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/e/e1/US_Cremonese_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Cremonese",
+    "champ": "Coupe d'Italie",
+    "heure": "16H00",
+    "date": "01/09/2026",
+    "pro": "Score exact: 1:1"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/A.C._Viseu.svg/langfr-250px-A.C._Viseu.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-    "name1": "Academico de Viseu",
-    "photo2": "https://upload.wikimedia.org/wikipedia/sco/thumb/f/f1/FC_Porto.svg/500px-FC_Porto.svg.png?utm_source=sco.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Porto",
-    "champ": "Portugal. Primeira Liga",
-    "heure": "17H00",
-    "date": "29/08/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9rnxjseHokUUdjD9-KG0E_xwfi7QKKgjBzv9bzqeQiw&s",
+    "name1": "Wolfsberger AC",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCEjW27Au5MIW2TdVQeSpGeLC5Ep8CJDABi7x5HDHxw&s",
+    "name2": "LASK Linz",
+    "champ": "Autriche. Bundesliga",
+    "heure": "17H30",
+    "date": "01/09/2026",
     "pro": "Score exact: 1:3"
   }
 ]
