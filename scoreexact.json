@@ -1,22 +1,22 @@
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/250px-Borussia_Dortmund_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Dortmund",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzY5HKSUQFp0QBRVpcbPHIJ8_ohSPi7Eq1LqBQvjxXAQ&s=10",
-    "name2": "Villarreal",
+    "photo1": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1280px-VfB_Stuttgart_1893_Logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Stuttgart",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIBchioHjee3lG_Ia6YybwziYHknPhfR3hbS1uDF7LzkVa-AauIr4iwNg&s=10",
+    "name2": "Viking",
     "champ": "Ligue des champions de l'UEFA",
-    "heure": "19H00",
-    "date": "08/09/2026",
-    "pro": "Score exact: 3:2"
+    "heure": "16H45",
+    "date": "09/09/2026",
+    "pro": "Score exact: 3:1"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_LOSC_Lille_2018.svg/1280px-Logo_LOSC_Lille_2018.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Lille OSC",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e8/Logo_Real_Betis_Balompi%C3%A9_2022.svg/1280px-Logo_Real_Betis_Balompi%C3%A9_2022.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Real Betis",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1280px-Logo_FC_Barcelona.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Barcelone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_Sportclub_Feyenoord.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Feyenoord",
     "champ": "Ligue des champions de l'UEFA",
-    "heure": "19H00",
-    "date": "08/09/2026",
-    "pro": "Score exact: 2:2"
+    "heure": "16H45",
+    "date": "09/09/2026",
+    "pro": "Score exact: 4:1"
   }
 ]
