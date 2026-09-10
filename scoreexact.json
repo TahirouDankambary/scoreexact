@@ -1,22 +1,22 @@
  [
   {
-    "photo1": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1280px-VfB_Stuttgart_1893_Logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Stuttgart",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIBchioHjee3lG_Ia6YybwziYHknPhfR3hbS1uDF7LzkVa-AauIr4iwNg&s=10",
-    "name2": "Viking",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/9/90/Slavia-symbol-nowordmark-RGB.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Slavia Prague",
+    "photo2": "https://thumb.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_RC_Lens.svg/1920px-Logo_RC_Lens.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "RC Lens",
     "champ": "Ligue des champions de l'UEFA",
-    "heure": "16H45",
-    "date": "09/09/2026",
-    "pro": "Score exact: 3:1"
+    "heure": "19H00",
+    "date": "10/09/2026",
+    "pro": "Score exact: 1:1"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1280px-Logo_FC_Barcelona.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Barcelone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_Sportclub_Feyenoord.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Feyenoord",
+    "photo1": "https://thumb.wikimedia.org/wikipedia/sco/thumb/7/7a/Manchester_United_FC_crest.svg/330px-Manchester_United_FC_crest.svg.png?utm_source=sco.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Man United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/a/a9/Sabah_FC_%28Azerbaijan%29.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Sabah Baku",
     "champ": "Ligue des champions de l'UEFA",
-    "heure": "16H45",
-    "date": "09/09/2026",
-    "pro": "Score exact: 4:1"
+    "heure": "19H00",
+    "date": "10/09/2026",
+    "pro": "Score exact: 3:1"
   }
 ]
