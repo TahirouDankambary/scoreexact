@@ -1,22 +1,22 @@
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR735p1wIkCuCESutO70r18Hx-6m5oZLhX14XcyACQbEA&s=10",
-    "name1": "Sunderland",
-    "photo2": "https://assets.football-logos.cc/logos/netherlands/700x700/az-alkmaar.68b9dc18.png",
-    "name2": "AZ Alkmaar",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "19H00",
-    "date": "16/09/2026",
-    "pro": "Score exact: 2:1"
+    "photo1": "https://assets.football-logos.cc/logos/spain/700x700/deportivo-la-coruna.f221c9cc.png",
+    "name1": "Deportivo de la Coruna",
+    "photo2": "https://logodownload.org/wp-content/uploads/2023/05/real-betis-logo.png",
+    "name2": "Real Betis",
+    "champ": "Espagne. La Liga",
+    "heure": "16H30",
+    "date": "20/09/2026",
+    "pro": "Score exact: 1:1"
   },
     {
-    "photo1": "https://thumb.wikimedia.org/wikipedia/sco/thumb/7/7c/Everton_FC_logo.svg/960px-Everton_FC_logo.svg.png?utm_source=sco.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Everton",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY68CJtyHt_YbrAgOZtOucmJ6540Cxaa82G-PUveKv_A&s=10",
-    "name2": "Wolverhampton",
-    "champ": "Angleterre. Coupe de la Ligue",
-    "heure": "18H45",
-    "date": "16/09/2026",
-    "pro": "Score exact: 1:1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/76/Logo_SC_Paderborn_07.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Paderborn 07",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_TSG_Hoffenheim.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Hoffenheim",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "17H30",
+    "date": "20/09/2026",
+    "pro": "Score exact: 0:2"
   }
 ]
