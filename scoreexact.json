@@ -1,22 +1,22 @@
  [
   {
-    "photo1": "https://assets.football-logos.cc/logos/spain/700x700/deportivo-la-coruna.f221c9cc.png",
-    "name1": "Deportivo de la Coruna",
-    "photo2": "https://logodownload.org/wp-content/uploads/2023/05/real-betis-logo.png",
-    "name2": "Real Betis",
-    "champ": "Espagne. La Liga",
-    "heure": "16H30",
-    "date": "20/09/2026",
-    "pro": "Score exact: 1:1"
+    "photo1": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/3840px-Flag_of_Libya.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Libye",
+    "photo2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/330px-Flag_of_Botswana.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Botswana",
+    "champ": "Coupe d'Afrique des Nations",
+    "heure": "16H00",
+    "date": "24/09/2026",
+    "pro": "Score exact: 1:0"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/76/Logo_SC_Paderborn_07.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Paderborn 07",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_TSG_Hoffenheim.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Hoffenheim",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "17H30",
-    "date": "20/09/2026",
-    "pro": "Score exact: 0:2"
+    "photo1": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/330px-Flag_of_Sierra_Leone.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Sierra Leone",
+    "photo2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/3840px-Flag_of_Zimbabwe.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Zimbabwe",
+    "champ": "Coupe d'Afrique des Nations",
+    "heure": "19H00",
+    "date": "24/09/2026",
+    "pro": "Score exact: 1:1"
   }
 ]
